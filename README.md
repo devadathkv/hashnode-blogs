@@ -1,6 +1,5 @@
-# Technical Writing
-
-Welcome to my **Technical Writing** repository!
+# Hashnode
+Welcome to my **Hashnode blogs** repository!
 
 This space is dedicated to documenting and showcasing my technical writing skills in the world of coding.
 
